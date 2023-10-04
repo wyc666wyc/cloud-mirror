@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "5.3.1",
+    "@types/koa": "^2.13.9",
     "@types/node": "^20.8.0",
     "koa": "^2.14.2",
     "node-cmd": "^5.0.0",

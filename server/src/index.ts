@@ -1,3 +1,6 @@
+import Koa from 'koa'
 import { add } from "./utils"
 
-console.log(add)
+const app = new Koa()
+
+app.listen(3000)
