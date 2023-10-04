@@ -1,3 +1,2 @@
-export function add() {
-  return 1
+export function add(err, callback) {
 }
